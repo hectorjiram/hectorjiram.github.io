@@ -1,4 +1,4 @@
- <link rel="stylesheet" type="css" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 .texto{color:#99a8ef;
@@ -16,7 +16,7 @@ font-size:100px;background-color:#000; font-family: Brush Script MT; text-align:
 
 
 
-  <style type="css">
+  
     * {
       margin: 0;
       padding: 0;
@@ -55,5 +55,5 @@ nav a: icon{
         }
 }
 
-</style>
+
 
