@@ -1,0 +1,58 @@
+<style>
+
+.texto1{color:#300100;
+font-size:19px; background-color: #gray; font-family: Brush Script; text-align: left; margin-left:2px;
+}
+
+.texto2{color:#fff;
+font-size:100px;background-color:#000; font-family: Brush Script MT; text-align: center;
+}
+
+.texto3{color:#510301;
+font-size:45px;font-family: Brush Script MT; text-align: center;
+}
+
+
+</style>
+
+<style type="text/css">
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      width: 100%;
+      background-color: gray;
+      margin: text-align-above-;
+
+
+     nav{background-color: #353e47; 
+	font-family: Brush Script; 
+	text-align: center;
+	font-size:35px;	
+}
+
+     a{ 
+	text-decoration: none;
+	}
+
+#contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#contenedor > div {
+  width: 33%;
+}
+
+
+
+
+
+
+}
+
+
+</style>
+

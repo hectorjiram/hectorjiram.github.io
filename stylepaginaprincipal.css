@@ -1,0 +1,59 @@
+<style>
+
+.texto{color:#99a8ef;
+font-size:70px;
+}
+
+.texto1{color:#000;
+font-size:35px; background-color: #gray; font-family: Brush Script; text-align: center; margin-left:10px;
+}
+
+.texto2{color:#fff;
+font-size:100px;background-color:#000; font-family: Brush Script MT; text-align: center;
+}
+
+
+
+</style>
+  <style type="text/css">
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      width: 100%;
+      background-color: gray;
+      margin: text-align-above-;
+    }
+    .icon-bar {
+      width: 100%;
+      background-color: #1C1C1C;
+      overflow: auto;
+    }
+    .icon-bar a {
+    float: left;
+    text-align: Center;
+    width: 25%;
+    padding: 18px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 40px;
+    }
+    .icon-bar a:hover {
+      color: black;
+      background-color: #353e47 ;
+    }
+    .active {
+      background-color: #353e47 !important;
+    }
+@media screen and (max-width: 600px){
+nav a: not:first child{display: none;}
+nav a: icon{
+    float.rigth;
+    display: block;
+        }
+}
+
+
+</style>
+

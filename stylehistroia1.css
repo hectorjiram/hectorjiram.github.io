@@ -1,0 +1,111 @@
+<style type="text/css">
+
+body{
+background-color:gray;
+margin:0;
+font-family:Arial;
+}
+
+.top-container{
+background-color:gray;
+padding: 30px;
+font-size: 20px;
+}
+
+.header{
+font-family: Brush Script MT;
+padding: 10px 16px;
+background: black;
+color: white;
+}
+
+.content{
+font-family: Brush Script;
+color: white;
+padding:16px;
+background-color:#353e47;
+}
+
+.sticky{
+position: fixed;
+top:0;
+width:100%;
+}
+
+.sticky + .content{
+padding-top:102px;
+}
+
+
+</style>
+
+<style>
+	.textoinicial{
+	background-color:gray;
+    color: black;
+    font-size:30px;
+    padding: 8px;
+    text-align:center; }
+</style>
+
+<style>
+
+  .parallax{
+    min-height:900px;
+    background-image: url("cuarto.jfif");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;}
+
+  .texto{
+  	background-color:gray;
+    color: black;
+    font-size:30px;
+    padding: 8px;
+    text-align:center; }
+
+
+  .parallax2{
+    min-height:900px;
+    background-image: url("calle.jfif");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;}
+
+  .texto2{
+  	background-color:gray;
+    color: black;
+    font-size:30px;
+    padding: 8px;
+    text-align:center;}
+
+
+  .parallax3{
+    min-height:900px;
+    background-image: url("sombra.jfif");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;}
+
+  .texto3{
+  	background-color:gray;
+    color: black;
+    font-size:30px;
+    padding: 8px;
+    text-align:center;}
+
+  h3{
+	font-size: 25px;
+	font-family:  Brush Script;
+	}
+
+ h1{
+	font-size: 35px;
+	font-family:  Brush Script;
+	}
+
+ 
+</style>
