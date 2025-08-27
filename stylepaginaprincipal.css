@@ -17,7 +17,7 @@
 
 
 
-      <i class="fa-facebook-square"></i>
+      <i class="fa fa-book"></i>
   
   </nav>
        
@@ -53,10 +53,10 @@ font-size:100px;background-color:#000; font-family: Brush Script MT; text-align:
     float: left;
     text-align: Center;
     width: 25%;
-    padding: 18px 0;
+    padding: 18px 18;
     transition: all 0.3s ease;
     color: white;
-    font-size: 40px;
+    font-size: 100px;
     }
     .icon-bar a:hover {
       color: black;
@@ -72,6 +72,7 @@ nav a: icon{
     display: block;
         }
 }
+
 
 
 
